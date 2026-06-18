@@ -35,12 +35,6 @@ Planned sharing/public feed system.
 
 ---
 
-## 📸 Preview
-
-🚀 *Screenshots coming soon*
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -175,14 +169,9 @@ MindVault is being built with a simple goal:
 Currently a personal learning + portfolio project.
 
 Suggestions and feedback are welcome.
-
 ---
-
 ## 👨‍💻 Developer
-
 Built by **Swastik** 🚀
-
-Learning Full Stack Development one project at a time.
 
 ---
 
