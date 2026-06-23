@@ -167,14 +167,8 @@ MindVault is being built with a simple goal:
 ## 🤝 Contributions
 
 Currently a personal learning + portfolio project.
-
 Suggestions and feedback are welcome.
+
 ---
 ## 👨‍💻 Developer
 Built by **Swastik** 🚀
-
----
-
-## ⭐ Support
-
-If you like the project, consider giving it a **star ⭐** on GitHub.
